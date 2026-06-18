@@ -37,7 +37,7 @@ export default function Home() {
             }
             className="rounded-full bg-pink-500 px-8 py-4 text-lg hover:bg-pink-600 transition"
           >
-            Mulai Cerita ❤️
+            Mulai Cerita
           </button>
         </div>
       </main>
