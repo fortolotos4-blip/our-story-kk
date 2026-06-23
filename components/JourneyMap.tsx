@@ -40,6 +40,18 @@ const memories = [
       "Shoot taken by Claudia",
     image: "/photos/photo6.jpg",
   },
+  {
+    title: "Food Court",
+    description:
+      "Tempat Makan dan tempat hiburan bersama doi di BG Food Junction. (23/06/2026)",
+    image: "/photos/photo7.jpg",
+  },
+  {
+    title: "Foto",
+    description:
+      "Shoot taken by my honey, Keshya 💕",
+    image: "/photos/photo8.jpg",
+  },
 ];
 
 export default function JourneyMap() {
