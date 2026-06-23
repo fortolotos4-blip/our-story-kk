@@ -13,7 +13,7 @@ const memories = [
   {
     title: "Foto",
     description:
-      "Shoot taken by my honey, Keshya 💕",
+      "Shoot taken by my honey, Keshya💕",
     image: "/photos/photo2.jpg",
   },
   {
@@ -25,7 +25,7 @@ const memories = [
   {
     title: "Foto",
     description:
-      "Shoot taken by my honey, Keshya 💕",
+      "Shoot taken by my honey, Keshya💕",
     image: "/photos/photo4.jpg",
   },
     {
@@ -43,13 +43,13 @@ const memories = [
   {
     title: "Food Court",
     description:
-      "Tempat Makan dan tempat hiburan bersama doi di BG Food Junction. (23/06/2026)",
+      "Tempat makan dan hiburan bersama doi di BG Food Junction. (22/06/2026)",
     image: "/photos/photo7.jpg",
   },
   {
     title: "Foto",
     description:
-      "Shoot taken by my honey, Keshya 💕",
+      "Shoot taken by my honey, Keshya💕",
     image: "/photos/photo8.jpg",
   },
 ];
