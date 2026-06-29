@@ -52,6 +52,18 @@ const memories = [
       "Shoot taken by my honey, Keshya💕",
     image: "/photos/photo8.jpg",
   },
+    {
+    title: "Gereja",
+    description:
+      "Tempat beribadah bersama doi di gereja GMS Surabaya Barat. (28/06/2026)",
+    image: "/photos/photo9.jpg",
+  },
+  {
+    title: "Foto",
+    description:
+      "Shoot taken by my honey, Keshya💕",
+    image: "/photos/photo10.jpg",
+  },
 ];
 
 export default function JourneyMap() {
